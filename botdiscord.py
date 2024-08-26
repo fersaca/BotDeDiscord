@@ -64,4 +64,4 @@ async def stop(ctx):
         await ctx.send("Desconectado del canal de voz.")
 
 # Ejecuta el bot
-bot.run('MTI3NzY2NTUxNTU3NzI4MjY4MQ.GnrY0K.hJTetoJfxRplmSLmtnoX9UIg9LeW0R51WL7oiU')  # Añade tu token de Discord aquí
+bot.run('Discord-Key-Token')  # Añade tu token de Discord aquí
